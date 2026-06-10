@@ -11,4 +11,4 @@ The collection includes:
 - Assertions
 
 Document:
-- RestfulBooker_API_Collection.json
+- Restful Booker API_Testing.postman_collection.json
