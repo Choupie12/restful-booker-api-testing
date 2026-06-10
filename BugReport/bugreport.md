@@ -12,5 +12,11 @@ Each bug report includes:
 - Priority
 - Status
 
+
+### Environment
+- Postman
+- restful-booker.herokuapp.com
+
+  
 Document:
 - API_Bug_Report.xlsx
