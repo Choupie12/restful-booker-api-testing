@@ -47,3 +47,9 @@ The following endpoints were tested:
 * Postman Collection
 * Screenshots
 * Test Summary
+
+## Author
+
+Felicienne Miezan
+
+QA Testing Portfolio Project
