@@ -6,9 +6,9 @@ Restful Booker API Testing
 
 ## Test Execution Summary
 
-Total Test Cases Executed: 10
+Total Test Cases Executed: 11
 
-Passed: 8
+Passed: 9
 
 Failed: 2
 
@@ -19,6 +19,7 @@ Tested functionalities:
 * Retrieve booking list
 * Retrieve booking by ID
 * Create booking
+* Update booking
 * Validate JSON response
 * Validate response time
 * Negative testing
@@ -26,7 +27,18 @@ Tested functionalities:
 
 ## Defects Identified
 
-### API_BUG_001
+### API_TC_009
+
+Issue:
+Send POST request with incomplete JSON body returns HTTP 500  Internal Server Error.
+
+Severity:
+Medium
+
+Status:
+Open
+
+### API_TC_011
 
 Issue:
 PUT endpoint returns HTTP 403 Forbidden despite valid authentication token.
@@ -39,5 +51,5 @@ Open
 
 ## Conclusion
 
-The API successfully supports booking retrieval and creation functionalities. Response validation and performance checks were successfully completed. An issue was identified during booking update operations and documented as a defect.
+The API successfully supports booking retrieval and creation functionalities. Response validation and performance checks were successfully completed. Two issues were identified and documented as a defect.
 
