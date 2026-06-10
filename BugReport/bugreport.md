@@ -16,7 +16,6 @@ Each bug report includes:
 ### Environment
 - Postman
 - restful-booker.herokuapp.com
-
   
 Document:
 - API_Bug_Report.xlsx
