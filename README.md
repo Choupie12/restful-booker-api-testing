@@ -39,6 +39,16 @@ The following endpoints were tested:
 * Validation of response structure and business data
 * Identification of an authentication/update issue resulting in HTTP 403 responses during PUT requests
 
+  ## Test Execution Summary
+
+| Metric | Result |
+|----------|----------|
+| Total Test Cases | 11 |
+| Passed | 9 |
+| Failed | 2 |
+| Open Bugs | 2 |
+
+
 ## Repository Structure
 
 * Test Plan
